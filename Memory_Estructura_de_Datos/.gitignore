@@ -1,0 +1,36 @@
+# Maven
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+**/logs/
+*.log
+*.tmp
+*.bak
+
+# Archivos de compilación
+*.class
+
+# Archivos de empaquetado
+*.jar
+*.war
+*.ear
+
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+nbdist/
+dist/
+.nb-gradle/
+
+# Otros IDEs / SO
+*.iml
+.idea/
+out/
+*.iws
+*.ipr
+.DS_Store
+Thumbs.db
+
+# Pruebas (vacías o sin usar)
+src/test/
